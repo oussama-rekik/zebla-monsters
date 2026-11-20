@@ -1,0 +1,11 @@
+{
+  "appId": "tn.greenhackathon.zebla",
+  "appName": "Zebla Monsters",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}

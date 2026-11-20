@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Zebla Monsters</string>
+    <string name="title_activity_main">Zebla Monsters</string>
+    <string name="package_name">tn.greenhackathon.zebla</string>
+    <string name="custom_url_scheme">tn.greenhackathon.zebla</string>
+</resources>

@@ -1,0 +1,16 @@
+{
+  "name": "Zebla Monsters",
+  "short_name": "Zebla",
+  "description": "Chasse les monstres nés des déchets, trie, recycle et reconstruis ta houma.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#12392C",
+  "theme_color": "#16302B",
+  "lang": "fr",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
